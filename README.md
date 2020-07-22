@@ -20,4 +20,9 @@ YAML        1 hr 10 mins        █░░░░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Getting familiar with Objects.](https://dev.to/uddeshjain/getting-familiar-with-objects-9j1)
+- [Going serverless with firebase cloud functions.](https://dev.to/uddeshjain/going-serverless-with-firebase-cloud-functions-3m6h)
+- [Pagination in React.](https://dev.to/uddeshjain/pagination-in-react-1dc7)
+- [Pulling the first Docker image and a few essential commands.](https://dev.to/uddeshjain/pulling-the-first-docker-image-and-a-few-essential-commands-58cf)
+- [What and Why of Docker.](https://dev.to/uddeshjain/what-and-why-of-docker-59kg)
 <!-- BLOG-POST-LIST:END -->
