@@ -2,10 +2,9 @@
 
 This is the place where I make stuff and break things :rofl:
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Docker, K8s and lots of other things.
-- 💬 Ask me about anything related to Tech.
-- 📫 How to reach me: [@Uddesh\_](https://twitter.com/Uddesh_)
+- 🔭 Trying to be a beeter engineer everyday. :wink:
+- 🌱 Currently working on Django, React and few other things.
+- 📫 How to reach me: [me@uddesh.dev](mailto:me@uddesh.dev)
 - ⚡ Fun fact: I :heart: JS.
 
 📊 **My Expertise**
@@ -14,13 +13,14 @@ This is the place where I make stuff and break things :rofl:
 - Python
 - NodeJS
 - ReactJs
+- Django
 - HTML5
 - CSS
 - MongoDB
 - Firebase
 - Git
 
-📕 **Latest Blog Posts**
+📕 **Here's few blog i wrote**
 
 <!-- BLOG-POST-LIST:START -->
 - [The minimal server setup guide.](https://dev.to/uddeshjain/the-minimal-server-setup-guide-41on)
